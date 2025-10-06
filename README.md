@@ -1,10 +1,11 @@
 # Hello, I'm Sansi. 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sansi-pokharel/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a junior majoring in cybersecurity with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-Seeking a Tier-1 SOC Analyst or cybersecurity internship where I can apply SIEM log analysis, incident triage, and automation skills to reduce mean time to detect and respond. Available for summer internships and part-time roles.
+Seeking a Tier-1 SOC Analyst or cybersecurity internship where I can apply SIEM log analysis, incident triage, and automation skills to reduce mean time to detect and respond. 
+Available for summer internships and part-time roles.
 
 
 ## Skills
@@ -12,7 +13,7 @@ Seeking a Tier-1 SOC Analyst or cybersecurity internship where I can apply SIEM 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Google Cybersecurity Certificate Course Work        | <a href="https://usfedu-my.sharepoint.com/:f:/r/personal/sansi_usf_edu/Documents/Google%20Cybersecurity?csf=1&web=1&e=LENW6u">Detection Lab</a>|
+| Google Cybersecurity Certificate Course Work        | <a href="https://usfedu-my.sharepoint.com/:f:/r/personal/sansi_usf_edu/Documents/Google%20Cybersecurity?csf=1&web=1&e=LENW6u">Cybersecurity Labs</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
