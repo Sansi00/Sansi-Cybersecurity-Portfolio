@@ -1,7 +1,7 @@
 # Hello, I'm Sansi. 
 <a href="https://www.linkedin.com/in/sansi-pokharel/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a junior majoring in cybersecurity with a profound interest in technology and a dedication to solving complex problems.
+a junior Cybersecurity student passionate about defending digital systems and automating security workflows. I build tools, labs, and scripts to detect, analyze, and mitigate threats, and I’m actively exploring SOC operations, incident response, and penetration testing.
 
 ## Objective
 Seeking a Tier-1 SOC Analyst or cybersecurity internship where I can apply SIEM log analysis, incident triage, and automation skills to reduce mean time to detect and respond. 
