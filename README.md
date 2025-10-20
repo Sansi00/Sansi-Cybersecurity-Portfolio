@@ -14,11 +14,8 @@ Available for summer internships and part-time roles.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Google Cybersecurity Certificate Course Work        | <a href="https://usfedu-my.sharepoint.com/:f:/r/personal/sansi_usf_edu/Documents/Google%20Cybersecurity?csf=1&web=1&e=LENW6u">Cybersecurity Labs</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Home Lab Setup | <a href="https://github.com/Sansi00/ethical-hacking-portfolio/tree/main/labs/Lab1-TestLabSetup">Link to Documentation</a>|
+| Ethical Hacking Portfolio         |<a href="https://github.com/Sansi00/ethical-hacking-portfolio/tree/main">Link to Documentation</a>| |
 
 ## Tools
 
