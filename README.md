@@ -34,9 +34,7 @@ Available for summer internships and part-time roles.
 <div>
 In-Progress <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-## Skills — Scripting & Automation
 
-I build automation and tooling to accelerate detection, response, and testing. I focus on reproducible, documented scripts that integrate with SIEMs, cloud platforms, and lab environments.
 
 ### Scripting & Automation
 <div>
@@ -45,6 +43,7 @@ I build automation and tooling to accelerate detection, response, and testing. I
     <img src="https://img.shields.io/badge/-Automation-F0DB4F?&style=for-the-badge&logo=GitHubActions&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
 </div>
+
 ### Example Project Applications
 - **Azure Sentinel Threat Mapping:** PowerShell + Python automation for geolocation extraction and enrichment of 10,000+ threats.  
 - **Ethical Hacking Labs Automation:** Bash scripts to provision VMs, run Nmap scans, and generate sanitized reports.  
