@@ -30,12 +30,6 @@ Available for summer internships and part-time roles.
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-In-Progress <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
-
 ### Scripting & Automation
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
@@ -43,6 +37,12 @@ In-Progress <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=fo
     <img src="https://img.shields.io/badge/-Automation-F0DB4F?&style=for-the-badge&logo=GitHubActions&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
 </div>
+
+## Certifications
+<div>
+In-Progress <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
 
 ### Example Project Applications
 - **Azure Sentinel Threat Mapping:** PowerShell + Python automation for geolocation extraction and enrichment of 10,000+ threats.  
