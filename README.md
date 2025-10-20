@@ -4,7 +4,7 @@
 I am a junior Cybersecurity student passionate about defending digital systems and automating security workflows. I build tools, labs, and scripts to detect, analyze, and mitigate threats, and I’m actively exploring SOC operations, incident response, and penetration testing.
 
 ## Objective
-Seeking a Tier-1 SOC Analyst or cybersecurity internship where I can apply SIEM log analysis, incident triage, and automation skills to reduce mean time to detect and respond. 
+Seeking a Tier-1 SOC Analyst or cybersecurity internship to leverage hands-on experience in SIEM log analysis, incident triage, and automation. Skilled in ethical hacking, lab environments, and threat mapping, with a track record of building secure systems and accelerating detection and response workflows. 
 Available for summer internships and part-time roles.
 
 
