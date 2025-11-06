@@ -50,4 +50,5 @@ In-Progress <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=fo
 - **Azure Sentinel Threat Mapping:** PowerShell + Python automation for geolocation extraction and enrichment of 10,000+ threats.  
 - **Ethical Hacking Labs Automation:** Bash scripts to provision VMs, run Nmap scans, and generate sanitized reports.  
 - **Secure Comm Prototype:** Python & C++ scripts for logging, testing, and real-time validation of encrypted device-to-device communication.
+- **SOCAP Shadowing (CyberFlorida)**: Observed and documented Tier-1 and Tier-2 SOC workflows, including SIEM alert analysis, correlation rule testing, and incident escalation procedures. Collaborated with analysts to understand real-time log triage and response prioritization.
 
